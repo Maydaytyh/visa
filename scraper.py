@@ -7,7 +7,15 @@
 import json
 import time
 import requests
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+
+# 北京时间 UTC+8
+BJ_TIMEZONE = timezone(timedelta(hours=8))
+
+
+def get_beijing_time() -> datetime:
+    """获取当前北京时间"""
+    return datetime.now(BJ_TIMEZONE)
 
 
 BASE_URL = "https://immi.homeaffairs.gov.au"
@@ -75,7 +83,7 @@ class VisaProcessingTimeScraper:
     def save_to_json(self, data: list[dict], filename: str = "visa_data.json"):
         """全量覆盖写入 JSON 文件。"""
         output = {
-            "last_updated": datetime.now().isoformat(),
+            "last_updated": get_beijing_time().isoformat(),
             "source_url": f"{BASE_URL}/visas/getting-a-visa/visa-processing-times/global-visa-processing-times",
             "visa_count": len(data),
             "visas": data,
@@ -144,7 +152,7 @@ class VisaProcessingTimeScraper:
                     "processing_time_90_percent": p90,
                     "percent_50_days": info.get("Percent50"),
                     "percent_90_days": info.get("Percent90"),
-                    "query_date": datetime.now().isoformat(),
+                    "query_date": get_beijing_time().isoformat(),
                 }
                 all_data.append(record)
                 print(f"  ✓ 50%={p50}, 90%={p90}")
