@@ -1,0 +1,34 @@
+name: Daily Scrape
+
+on:
+  schedule:
+    # 每天北京时间早上 8 点（UTC 0 点）
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scraper.py all
+
+      - name: Commit and push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add visa_data.json
+          git diff --cached --quiet || git commit -m "update visa data $(date -u +%Y-%m-%d)"
+          git push
