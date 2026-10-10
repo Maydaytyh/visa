@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T11:20:44.550974+08:00",
+  "last_updated": "2026-10-10T11:00:42.633472+08:00",
   "source_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/global-visa-processing-times",
   "visa_count": 74,
   "visas": [
@@ -11,7 +11,7 @@
       "processing_time_90_percent": "19 Months",
       "percent_50_days": "239",
       "percent_90_days": "573",
-      "query_date": "2026-10-09T11:20:01.572531+08:00"
+      "query_date": "2026-10-10T10:59:58.058867+08:00"
     },
     {
       "visa_type": "Business Innovation and Investment (Permanent) visa (subclass 888)",
@@ -21,7 +21,7 @@
       "processing_time_90_percent": "10 Months",
       "percent_50_days": "262",
       "percent_90_days": "316",
-      "query_date": "2026-10-09T11:20:02.191378+08:00"
+      "query_date": "2026-10-10T10:59:58.622922+08:00"
     },
     {
       "visa_type": "Business Innovation and Investment (Permanent) visa (subclass 888)",
@@ -31,7 +31,7 @@
       "processing_time_90_percent": "6 Months",
       "percent_50_days": "157",
       "percent_90_days": "186",
-      "query_date": "2026-10-09T11:20:02.812513+08:00"
+      "query_date": "2026-10-10T10:59:59.187798+08:00"
     },
     {
       "visa_type": "Business Innovation and Investment (Permanent) visa (subclass 888)",
@@ -41,7 +41,7 @@
       "processing_time_90_percent": "8 Months",
       "percent_50_days": "125",
       "percent_90_days": "248",
-      "query_date": "2026-10-09T11:20:03.369883+08:00"
+      "query_date": "2026-10-10T10:59:59.775938+08:00"
     },
     {
       "visa_type": "Business Innovation and Investment (Provisional) visa (subclass 188)",
@@ -51,7 +51,7 @@
       "processing_time_90_percent": "11 Months",
       "percent_50_days": "195",
       "percent_90_days": "332",
-      "query_date": "2026-10-09T11:20:03.980390+08:00"
+      "query_date": "2026-10-10T11:00:00.352529+08:00"
     },
     {
       "visa_type": "Business Talent visa (subclass 132)",
@@ -61,7 +61,7 @@
       "processing_time_90_percent": "70 Months",
       "percent_50_days": "2034",
       "percent_90_days": "2125",
-      "query_date": "2026-10-09T11:20:04.571562+08:00"
+      "query_date": "2026-10-10T11:00:01.456112+08:00"
     },
     {
       "visa_type": "Child visa (subclass 101)",
@@ -71,7 +71,7 @@
       "processing_time_90_percent": "33 Months",
       "percent_50_days": "743",
       "percent_90_days": "990",
-      "query_date": "2026-10-09T11:20:05.183418+08:00"
+      "query_date": "2026-10-10T11:00:02.152190+08:00"
     },
     {
       "visa_type": "Child visa (subclass 802)",
@@ -81,7 +81,7 @@
       "processing_time_90_percent": "31 Months",
       "percent_50_days": "627",
       "percent_90_days": "931",
-      "query_date": "2026-10-09T11:20:05.760270+08:00"
+      "query_date": "2026-10-10T11:00:02.759760+08:00"
     },
     {
       "visa_type": "Dependent Child visa (subclass 445)",
@@ -91,7 +91,7 @@
       "processing_time_90_percent": "32 Months",
       "percent_50_days": "771",
       "percent_90_days": "982",
-      "query_date": "2026-10-09T11:20:06.338629+08:00"
+      "query_date": "2026-10-10T11:00:03.401328+08:00"
     },
     {
       "visa_type": "Electronic Travel Authority (subclass 601)",
@@ -101,7 +101,7 @@
       "processing_time_90_percent": "Less than 1 Day",
       "percent_50_days": "1",
       "percent_90_days": "1",
-      "query_date": "2026-10-09T11:20:06.990794+08:00"
+      "query_date": "2026-10-10T11:00:04.049035+08:00"
     },
     {
       "visa_type": "Employer Nomination Scheme (subclass 186)",
@@ -111,7 +111,7 @@
       "processing_time_90_percent": "25 Months",
       "percent_50_days": "631",
       "percent_90_days": "757",
-      "query_date": "2026-10-09T11:20:07.592718+08:00"
+      "query_date": "2026-10-10T11:00:04.664950+08:00"
     },
     {
       "visa_type": "Employer Nomination Scheme (subclass 186)",
@@ -121,7 +121,7 @@
       "processing_time_90_percent": "12 Months",
       "percent_50_days": "50",
       "percent_90_days": "376",
-      "query_date": "2026-10-09T11:20:08.217953+08:00"
+      "query_date": "2026-10-10T11:00:05.266916+08:00"
     },
     {
       "visa_type": "Employer Nomination Scheme (subclass 186)",
@@ -131,7 +131,7 @@
       "processing_time_90_percent": "25 Months",
       "percent_50_days": "649",
       "percent_90_days": "757",
-      "query_date": "2026-10-09T11:20:08.782637+08:00"
+      "query_date": "2026-10-10T11:00:05.946669+08:00"
     },
     {
       "visa_type": "eVisitor visa (subclass 651)",
@@ -141,7 +141,7 @@
       "processing_time_90_percent": "Less than 1 Day",
       "percent_50_days": "1",
       "percent_90_days": "1",
-      "query_date": "2026-10-09T11:20:09.339469+08:00"
+      "query_date": "2026-10-10T11:00:06.549161+08:00"
     },
     {
       "visa_type": "Five Year Resident Return visa (subclass 155)",
@@ -151,7 +151,7 @@
       "processing_time_90_percent": "6 Days",
       "percent_50_days": "1",
       "percent_90_days": "6",
-      "query_date": "2026-10-09T11:20:09.913878+08:00"
+      "query_date": "2026-10-10T11:00:07.142221+08:00"
     },
     {
       "visa_type": "Global Talent visa (subclass 858)",
@@ -161,7 +161,7 @@
       "processing_time_90_percent": "24 Months",
       "percent_50_days": "482",
       "percent_90_days": "726",
-      "query_date": "2026-10-09T11:20:10.490708+08:00"
+      "query_date": "2026-10-10T11:00:07.732616+08:00"
     },
     {
       "visa_type": "Maritime Crew Visa (subclass 988)",
@@ -171,7 +171,7 @@
       "processing_time_90_percent": "3 Days",
       "percent_50_days": "1",
       "percent_90_days": "3",
-      "query_date": "2026-10-09T11:20:11.045327+08:00"
+      "query_date": "2026-10-10T11:00:08.343681+08:00"
     },
     {
       "visa_type": "Medical Treatment visa (subclass 602)",
@@ -181,7 +181,7 @@
       "processing_time_90_percent": "3 Months",
       "percent_50_days": "19",
       "percent_90_days": "100",
-      "query_date": "2026-10-09T11:20:11.598887+08:00"
+      "query_date": "2026-10-10T11:00:08.960163+08:00"
     },
     {
       "visa_type": "National Innovation visa (subclass 858)",
@@ -191,7 +191,7 @@
       "processing_time_90_percent": "7 Months",
       "percent_50_days": "180",
       "percent_90_days": "225",
-      "query_date": "2026-10-09T11:20:12.185446+08:00"
+      "query_date": "2026-10-10T11:00:09.580773+08:00"
     },
     {
       "visa_type": "New Zealand Citizen Family Relationship (Temporary) visa (subclass 461)",
@@ -201,7 +201,7 @@
       "processing_time_90_percent": "6 Months",
       "percent_50_days": "151",
       "percent_90_days": "192",
-      "query_date": "2026-10-09T11:20:12.746850+08:00"
+      "query_date": "2026-10-10T11:00:10.200564+08:00"
     },
     {
       "visa_type": "Orphan Relative visa (subclass 117)",
@@ -211,7 +211,7 @@
       "processing_time_90_percent": "97 Months",
       "percent_50_days": "2285",
       "percent_90_days": "2946",
-      "query_date": "2026-10-09T11:20:13.312928+08:00"
+      "query_date": "2026-10-10T11:00:10.798775+08:00"
     },
     {
       "visa_type": "Partner (Provisional) visa (subclass 309)",
@@ -221,7 +221,7 @@
       "processing_time_90_percent": "32 Months",
       "percent_50_days": "645",
       "percent_90_days": "975",
-      "query_date": "2026-10-09T11:20:13.914132+08:00"
+      "query_date": "2026-10-10T11:00:11.437517+08:00"
     },
     {
       "visa_type": "Partner visa (subclass 100)",
@@ -231,7 +231,7 @@
       "processing_time_90_percent": "21 Months",
       "percent_50_days": "281",
       "percent_90_days": "629",
-      "query_date": "2026-10-09T11:20:14.468934+08:00"
+      "query_date": "2026-10-10T11:00:12.012045+08:00"
     },
     {
       "visa_type": "Partner visa (subclass 801)",
@@ -241,7 +241,7 @@
       "processing_time_90_percent": "19 Months",
       "percent_50_days": "234",
       "percent_90_days": "585",
-      "query_date": "2026-10-09T11:20:15.042647+08:00"
+      "query_date": "2026-10-10T11:00:12.606339+08:00"
     },
     {
       "visa_type": "Partner visa (subclass 820)",
@@ -251,7 +251,7 @@
       "processing_time_90_percent": "30 Months",
       "percent_50_days": "679",
       "percent_90_days": "908",
-      "query_date": "2026-10-09T11:20:15.614145+08:00"
+      "query_date": "2026-10-10T11:00:13.176588+08:00"
     },
     {
       "visa_type": "Permanent Residence (Skilled Regional) (subclass 191)",
@@ -261,7 +261,7 @@
       "processing_time_90_percent": "10 Months",
       "percent_50_days": "248",
       "percent_90_days": "310",
-      "query_date": "2026-10-09T11:20:16.171462+08:00"
+      "query_date": "2026-10-10T11:00:13.754619+08:00"
     },
     {
       "visa_type": "Prospective Marriage visa (subclass 300)",
@@ -271,7 +271,7 @@
       "processing_time_90_percent": "26 Months",
       "percent_50_days": "415",
       "percent_90_days": "785",
-      "query_date": "2026-10-09T11:20:16.749309+08:00"
+      "query_date": "2026-10-10T11:00:14.339091+08:00"
     },
     {
       "visa_type": "Skilled - Independent visa (subclass 189)",
@@ -281,7 +281,7 @@
       "processing_time_90_percent": "8 Months",
       "percent_50_days": "61",
       "percent_90_days": "245",
-      "query_date": "2026-10-09T11:20:17.323604+08:00"
+      "query_date": "2026-10-10T11:00:14.920874+08:00"
     },
     {
       "visa_type": "Skilled - Independent visa (subclass 189)",
@@ -291,7 +291,7 @@
       "processing_time_90_percent": "61 Months",
       "percent_50_days": "1652",
       "percent_90_days": "1862",
-      "query_date": "2026-10-09T11:20:17.922340+08:00"
+      "query_date": "2026-10-10T11:00:15.503351+08:00"
     },
     {
       "visa_type": "Skilled - Nominated visa (subclass 190)",
@@ -301,7 +301,7 @@
       "processing_time_90_percent": "16 Months",
       "percent_50_days": "132",
       "percent_90_days": "476",
-      "query_date": "2026-10-09T11:20:18.561075+08:00"
+      "query_date": "2026-10-10T11:00:16.117555+08:00"
     },
     {
       "visa_type": "Skilled - Regional visa (subclass 887)",
@@ -311,7 +311,7 @@
       "processing_time_90_percent": "17 Months",
       "percent_50_days": "297",
       "percent_90_days": "507",
-      "query_date": "2026-10-09T11:20:19.137457+08:00"
+      "query_date": "2026-10-10T11:00:16.695554+08:00"
     },
     {
       "visa_type": "Skilled Employer Sponsored Regional (Provisional) visa (subclass 494)",
@@ -321,7 +321,7 @@
       "processing_time_90_percent": "12 Months",
       "percent_50_days": "253",
       "percent_90_days": "365",
-      "query_date": "2026-10-09T11:20:19.717883+08:00"
+      "query_date": "2026-10-10T11:00:17.310049+08:00"
     },
     {
       "visa_type": "Skilled Employer Sponsored Regional (Provisional) visa (subclass 494)",
@@ -331,7 +331,7 @@
       "processing_time_90_percent": "12 Months",
       "percent_50_days": "127",
       "percent_90_days": "258",
-      "query_date": "2026-10-09T11:20:20.291201+08:00"
+      "query_date": "2026-10-10T11:00:17.884514+08:00"
     },
     {
       "visa_type": "Skilled Work Regional (Provisional) visa (subclass 491)",
@@ -341,7 +341,7 @@
       "processing_time_90_percent": "18 Months",
       "percent_50_days": "156",
       "percent_90_days": "553",
-      "query_date": "2026-10-09T11:20:20.873502+08:00"
+      "query_date": "2026-10-10T11:00:18.465493+08:00"
     },
     {
       "visa_type": "Skilled Work Regional (Provisional) visa (subclass 491)",
@@ -351,7 +351,7 @@
       "processing_time_90_percent": "7 Months",
       "percent_50_days": "110",
       "percent_90_days": "208",
-      "query_date": "2026-10-09T11:20:21.532456+08:00"
+      "query_date": "2026-10-10T11:00:19.196340+08:00"
     },
     {
       "visa_type": "Skills In Demand visa (482)",
@@ -361,7 +361,7 @@
       "processing_time_90_percent": "9 Months",
       "percent_50_days": "154",
       "percent_90_days": "279",
-      "query_date": "2026-10-09T11:20:22.124528+08:00"
+      "query_date": "2026-10-10T11:00:19.926035+08:00"
     },
     {
       "visa_type": "Skills In Demand visa (482)",
@@ -371,7 +371,7 @@
       "processing_time_90_percent": "9 Months",
       "percent_50_days": "131",
       "percent_90_days": "286",
-      "query_date": "2026-10-09T11:20:22.676590+08:00"
+      "query_date": "2026-10-10T11:00:20.573541+08:00"
     },
     {
       "visa_type": "Skills In Demand visa (482)",
@@ -381,7 +381,7 @@
       "processing_time_90_percent": "78 Days",
       "percent_50_days": "37",
       "percent_90_days": "78",
-      "query_date": "2026-10-09T11:20:23.242401+08:00"
+      "query_date": "2026-10-10T11:00:21.222104+08:00"
     },
     {
       "visa_type": "Skills In Demand visa (482)",
@@ -391,7 +391,7 @@
       "processing_time_90_percent": "9 months",
       "percent_50_days": "64",
       "percent_90_days": "262",
-      "query_date": "2026-10-09T11:20:23.833490+08:00"
+      "query_date": "2026-10-10T11:00:21.825143+08:00"
     },
     {
       "visa_type": "Skills In Demand visa (482)",
@@ -401,7 +401,7 @@
       "processing_time_90_percent": "57 days",
       "percent_50_days": "11",
       "percent_90_days": "57",
-      "query_date": "2026-10-09T11:20:24.381472+08:00"
+      "query_date": "2026-10-10T11:00:22.407975+08:00"
     },
     {
       "visa_type": "Sponsored Parent (Temporary)  (subclass 870)",
@@ -411,7 +411,7 @@
       "processing_time_90_percent": "9 Months",
       "percent_50_days": "217",
       "percent_90_days": "278",
-      "query_date": "2026-10-09T11:20:24.963631+08:00"
+      "query_date": "2026-10-10T11:00:23.023419+08:00"
     },
     {
       "visa_type": "Sponsored Parent (Temporary) visa (subclass 870)",
@@ -421,7 +421,7 @@
       "processing_time_90_percent": "4 months",
       "percent_50_days": "89",
       "percent_90_days": "100",
-      "query_date": "2026-10-09T11:20:25.557360+08:00"
+      "query_date": "2026-10-10T11:00:23.646745+08:00"
     },
     {
       "visa_type": "Student Guardian visa (subclass 590)",
@@ -431,7 +431,7 @@
       "processing_time_90_percent": "8 Months",
       "percent_50_days": "43",
       "percent_90_days": "242",
-      "query_date": "2026-10-09T11:20:26.108183+08:00"
+      "query_date": "2026-10-10T11:00:24.209336+08:00"
     },
     {
       "visa_type": "Student visa (subclass 500)",
@@ -441,7 +441,7 @@
       "processing_time_90_percent": "22 Days",
       "percent_50_days": "3",
       "percent_90_days": "22",
-      "query_date": "2026-10-09T11:20:26.664369+08:00"
+      "query_date": "2026-10-10T11:00:24.773487+08:00"
     },
     {
       "visa_type": "Student visa (subclass 500)",
@@ -451,7 +451,7 @@
       "processing_time_90_percent": "55 Days",
       "percent_50_days": "17",
       "percent_90_days": "55",
-      "query_date": "2026-10-09T11:20:27.227423+08:00"
+      "query_date": "2026-10-10T11:00:25.353643+08:00"
     },
     {
       "visa_type": "Student visa (subclass 500)",
@@ -461,7 +461,7 @@
       "processing_time_90_percent": "53 Days",
       "percent_50_days": "22",
       "percent_90_days": "53",
-      "query_date": "2026-10-09T11:20:27.883038+08:00"
+      "query_date": "2026-10-10T11:00:25.937691+08:00"
     },
     {
       "visa_type": "Student visa (subclass 500)",
@@ -471,7 +471,7 @@
       "processing_time_90_percent": "7 Months",
       "percent_50_days": "28",
       "percent_90_days": "207",
-      "query_date": "2026-10-09T11:20:28.509744+08:00"
+      "query_date": "2026-10-10T11:00:26.527898+08:00"
     },
     {
       "visa_type": "Student visa (subclass 500)",
@@ -481,7 +481,7 @@
       "processing_time_90_percent": "7 Months",
       "percent_50_days": "53",
       "percent_90_days": "224",
-      "query_date": "2026-10-09T11:20:29.129444+08:00"
+      "query_date": "2026-10-10T11:00:27.090471+08:00"
     },
     {
       "visa_type": "Student visa (subclass 500)",
@@ -491,7 +491,7 @@
       "processing_time_90_percent": "4 Months",
       "percent_50_days": "16",
       "percent_90_days": "109",
-      "query_date": "2026-10-09T11:20:29.774157+08:00"
+      "query_date": "2026-10-10T11:00:27.668046+08:00"
     },
     {
       "visa_type": "Student visa (subclass 500)",
@@ -501,7 +501,7 @@
       "processing_time_90_percent": "43 Days",
       "percent_50_days": "3",
       "percent_90_days": "43",
-      "query_date": "2026-10-09T11:20:30.424745+08:00"
+      "query_date": "2026-10-10T11:00:28.256079+08:00"
     },
     {
       "visa_type": "Temporary Activity visa (subclass 408)",
@@ -511,7 +511,7 @@
       "processing_time_90_percent": "47 Days",
       "percent_50_days": "23",
       "percent_90_days": "47",
-      "query_date": "2026-10-09T11:20:31.029747+08:00"
+      "query_date": "2026-10-10T11:00:28.828023+08:00"
     },
     {
       "visa_type": "Temporary Activity visa (subclass 408)",
@@ -521,7 +521,7 @@
       "processing_time_90_percent": "17 Months",
       "percent_50_days": "448",
       "percent_90_days": "529",
-      "query_date": "2026-10-09T11:20:31.588603+08:00"
+      "query_date": "2026-10-10T11:00:29.390024+08:00"
     },
     {
       "visa_type": "Temporary Activity visa (subclass 408)",
@@ -531,7 +531,7 @@
       "processing_time_90_percent": "5 Months",
       "percent_50_days": "99",
       "percent_90_days": "163",
-      "query_date": "2026-10-09T11:20:32.184229+08:00"
+      "query_date": "2026-10-10T11:00:30.001747+08:00"
     },
     {
       "visa_type": "Temporary Activity visa (subclass 408)",
@@ -541,7 +541,7 @@
       "processing_time_90_percent": "56 Days",
       "percent_50_days": "31",
       "percent_90_days": "56",
-      "query_date": "2026-10-09T11:20:32.746407+08:00"
+      "query_date": "2026-10-10T11:00:30.584007+08:00"
     },
     {
       "visa_type": "Temporary Activity visa (subclass 408)",
@@ -551,7 +551,7 @@
       "processing_time_90_percent": "22 Days",
       "percent_50_days": "4",
       "percent_90_days": "22",
-      "query_date": "2026-10-09T11:20:33.395977+08:00"
+      "query_date": "2026-10-10T11:00:31.198332+08:00"
     },
     {
       "visa_type": "Temporary Activity visa (subclass 408)",
@@ -561,7 +561,7 @@
       "processing_time_90_percent": "52 Days",
       "percent_50_days": "28",
       "percent_90_days": "52",
-      "query_date": "2026-10-09T11:20:33.958519+08:00"
+      "query_date": "2026-10-10T11:00:31.787104+08:00"
     },
     {
       "visa_type": "Temporary Activity visa (subclass 408)",
@@ -571,7 +571,7 @@
       "processing_time_90_percent": "35 Days",
       "percent_50_days": "7",
       "percent_90_days": "35",
-      "query_date": "2026-10-09T11:20:34.540214+08:00"
+      "query_date": "2026-10-10T11:00:32.476530+08:00"
     },
     {
       "visa_type": "Temporary Activity visa (subclass 408)",
@@ -581,7 +581,7 @@
       "processing_time_90_percent": "4 Months",
       "percent_50_days": "16",
       "percent_90_days": "113",
-      "query_date": "2026-10-09T11:20:35.092989+08:00"
+      "query_date": "2026-10-10T11:00:33.171533+08:00"
     },
     {
       "visa_type": "Temporary Graduate visa (subclass 485)",
@@ -591,7 +591,7 @@
       "processing_time_90_percent": "5 Months",
       "percent_50_days": "52",
       "percent_90_days": "143",
-      "query_date": "2026-10-09T11:20:35.702531+08:00"
+      "query_date": "2026-10-10T11:00:33.825295+08:00"
     },
     {
       "visa_type": "Temporary Graduate visa (subclass 485)",
@@ -601,7 +601,7 @@
       "processing_time_90_percent": "55 Days",
       "percent_50_days": "5",
       "percent_90_days": "55",
-      "query_date": "2026-10-09T11:20:36.255216+08:00"
+      "query_date": "2026-10-10T11:00:34.389749+08:00"
     },
     {
       "visa_type": "Temporary Work (International Relations) visa (subclass 403)",
@@ -611,7 +611,7 @@
       "processing_time_90_percent": "45 Days",
       "percent_50_days": "12",
       "percent_90_days": "45",
-      "query_date": "2026-10-09T11:20:36.817642+08:00"
+      "query_date": "2026-10-10T11:00:34.982271+08:00"
     },
     {
       "visa_type": "Temporary Work (International Relations) visa (subclass 403)",
@@ -621,7 +621,7 @@
       "processing_time_90_percent": "4 Months",
       "percent_50_days": "50",
       "percent_90_days": "112",
-      "query_date": "2026-10-09T11:20:37.369534+08:00"
+      "query_date": "2026-10-10T11:00:35.587937+08:00"
     },
     {
       "visa_type": "Temporary Work (International Relations) visa (subclass 403)",
@@ -631,7 +631,7 @@
       "processing_time_90_percent": "78 Days",
       "percent_50_days": "27",
       "percent_90_days": "78",
-      "query_date": "2026-10-09T11:20:37.960867+08:00"
+      "query_date": "2026-10-10T11:00:36.155096+08:00"
     },
     {
       "visa_type": "Temporary Work (International Relations) visa (subclass 403)",
@@ -641,7 +641,7 @@
       "processing_time_90_percent": "30 Days",
       "percent_50_days": "15",
       "percent_90_days": "30",
-      "query_date": "2026-10-09T11:20:38.634414+08:00"
+      "query_date": "2026-10-10T11:00:36.736559+08:00"
     },
     {
       "visa_type": "Temporary Work (International Relations) visa (subclass 403)",
@@ -651,7 +651,7 @@
       "processing_time_90_percent": "5 Months",
       "percent_50_days": "107",
       "percent_90_days": "147",
-      "query_date": "2026-10-09T11:20:39.240911+08:00"
+      "query_date": "2026-10-10T11:00:37.307674+08:00"
     },
     {
       "visa_type": "Temporary Work (Short Stay Activity) visa (subclass 400)",
@@ -661,7 +661,7 @@
       "processing_time_90_percent": "43 Days",
       "percent_50_days": "8",
       "percent_90_days": "43",
-      "query_date": "2026-10-09T11:20:39.810245+08:00"
+      "query_date": "2026-10-10T11:00:37.908644+08:00"
     },
     {
       "visa_type": "Three Month Resident Return visa (subclass 157)",
@@ -671,7 +671,7 @@
       "processing_time_90_percent": "65 Days",
       "percent_50_days": "18",
       "percent_90_days": "65",
-      "query_date": "2026-10-09T11:20:40.419756+08:00"
+      "query_date": "2026-10-10T11:00:38.525914+08:00"
     },
     {
       "visa_type": "Training visa (subclass 407)",
@@ -681,7 +681,7 @@
       "processing_time_90_percent": "20 Months",
       "percent_50_days": "353",
       "percent_90_days": "614",
-      "query_date": "2026-10-09T11:20:40.995088+08:00"
+      "query_date": "2026-10-10T11:00:39.118868+08:00"
     },
     {
       "visa_type": "Transit visa (subclass 771)",
@@ -691,7 +691,7 @@
       "processing_time_90_percent": "13 Days",
       "percent_50_days": "3",
       "percent_90_days": "13",
-      "query_date": "2026-10-09T11:20:41.611373+08:00"
+      "query_date": "2026-10-10T11:00:39.689306+08:00"
     },
     {
       "visa_type": "Visitor visa (subclass 600)",
@@ -701,7 +701,7 @@
       "processing_time_90_percent": "33 Days",
       "percent_50_days": "21",
       "percent_90_days": "33",
-      "query_date": "2026-10-09T11:20:42.218381+08:00"
+      "query_date": "2026-10-10T11:00:40.272981+08:00"
     },
     {
       "visa_type": "Visitor visa (subclass 600)",
@@ -711,7 +711,7 @@
       "processing_time_90_percent": "3 Months",
       "percent_50_days": "40",
       "percent_90_days": "92",
-      "query_date": "2026-10-09T11:20:42.791316+08:00"
+      "query_date": "2026-10-10T11:00:40.856467+08:00"
     },
     {
       "visa_type": "Visitor visa (subclass 600)",
@@ -721,7 +721,7 @@
       "processing_time_90_percent": "19 Days",
       "percent_50_days": "7",
       "percent_90_days": "19",
-      "query_date": "2026-10-09T11:20:43.410851+08:00"
+      "query_date": "2026-10-10T11:00:41.424526+08:00"
     },
     {
       "visa_type": "Work and Holiday visa (subclass 462)",
@@ -731,7 +731,7 @@
       "processing_time_90_percent": "44 Days",
       "percent_50_days": "3",
       "percent_90_days": "44",
-      "query_date": "2026-10-09T11:20:43.985571+08:00"
+      "query_date": "2026-10-10T11:00:42.061818+08:00"
     },
     {
       "visa_type": "Working Holiday visa (subclass 417)",
@@ -741,7 +741,7 @@
       "processing_time_90_percent": "58 Days",
       "percent_50_days": "2",
       "percent_90_days": "58",
-      "query_date": "2026-10-09T11:20:44.550955+08:00"
+      "query_date": "2026-10-10T11:00:42.633452+08:00"
     }
   ]
 }
